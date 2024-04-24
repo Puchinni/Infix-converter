@@ -1,5 +1,5 @@
 # Infix converter
-first project of Algorythms and Data Structures course 
+first project of Algorithms and Data Structures course 
 
 Full description:
 
